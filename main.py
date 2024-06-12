@@ -25,7 +25,7 @@ def main():
     
     col1, col2 = st.columns([1, 3])
     with col1:
-        st.image('https://www.unimed.coop.br/site/image/layout_set_logo?img_id=32576633&t=1714051077186')
+        st.image('https://files.engaged.com.br/65d60659ca0cdd000897d84d/account/65d60659ca0cdd000897d84d/1dwYu9HERSKjY8GB1G0M_logo-triggo-ai-engaged_optimized.png')
     
     st.title(f"Audit Assistant")
     st.write("O documento que será utilizada para responder suas perguntas: ")
